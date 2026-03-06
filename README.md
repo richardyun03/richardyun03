@@ -9,20 +9,7 @@
 
 
 <p align="center">
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=richardyun03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardyun03&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
+  <img src="https://streak-stats.demolab.com?user=richardyun03&theme=tokyonight&hide_border=true" />
 </p>
 ## Current Focus
 
