@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Richard%20Yun&fontSize=40&fontAlignY=35&animation=fadeIn" />
-# Richard Yun
 
 MIT M.Eng. in Computer Science  
 Machine Learning • Robotics • Vision-Language Models • Multi-Agent Systems
