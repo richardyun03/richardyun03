@@ -4,7 +4,7 @@ MIT M.Eng. in Computer Science
 Machine Learning • Robotics • Vision-Language Models • Multi-Agent Systems
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=richardyun03&show_icons=true&hide_border=true)
 ---
 
 ## Current Focus
