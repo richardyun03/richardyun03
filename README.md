@@ -21,25 +21,18 @@ AI2-THOR • MiniGrid • PyTorch • Transformers • Drake
 
 ## Selected Projects
 
-<h2 align="center">Selected Projects</h2>
 
-<p align="center">
-<a href="https://github.com/richardyun03/multi-agent-vlm-planning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=multi-agent-vlm-planning&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/richardyun03/robotic-manipulation-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=robotic-manipulation-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-</p>
+**Multi-Agent VLM Planning**  
+Agents that combine world models with vision-language reasoning to solve long-horizon tasks in simulated environments.
 
-<p align="center">
-<a href="[https://github.com/richardyun03/golf-ml](https://github.com/richardyun03/golf-lab)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=golf-ml&theme=tokyonight&hide_border=true" />
-</a>
-<a href="[https://github.com/richardyun03/waterpolo-cv](https://github.com/richardyun03/polo_tracking)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=waterpolo-cv&theme=tokyonight&hide_border=true" />
-</a>
-</p>
+**Robotic Manipulation Pipeline**  
+Occlusion-aware perception using VLMs and segmentation models integrated with motion planning.
+
+**Sports Analytics / Golf ML**  
+Computer vision for swing analysis, shot dispersion estimation, and player comparison.
+
+**Water Polo Computer Vision**  
+Player tracking and event detection from match footage.
 
 ---
 
