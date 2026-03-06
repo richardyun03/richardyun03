@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Richard%20Yun&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
-MIT M.Eng. in Computer Science  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Robotics+Researcher;Vision-Language+Models;Multi-Agent+Systems&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MIT M.Eng in Computer Science;Machine+Learning;Multi-Agent+Systems;Sports&center=true&width=500&height=45">
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=richardyun03&show_icons=true&hide_border=true)
