@@ -7,10 +7,6 @@
 
 </div>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=richardyun03&theme=tokyonight&hide_border=true" />
-</p>
 ## Current Focus
 
 - World models for embodied agents
@@ -25,17 +21,25 @@ AI2-THOR • MiniGrid • PyTorch • Transformers • Drake
 
 ## Selected Projects
 
-**Multi-Agent VLM Planning**  
-Building agents that combine world models with vision-language reasoning to solve long-horizon tasks in simulated environments.
+<h2 align="center">Selected Projects</h2>
 
-**Robotic Manipulation Pipeline**  
-Occlusion-aware perception using VLMs + segmentation models integrated with motion planning.
+<p align="center">
+<a href="https://github.com/richardyun03/multi-agent-vlm-planning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=multi-agent-vlm-planning&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/richardyun03/robotic-manipulation-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=robotic-manipulation-pipeline&theme=tokyonight&hide_border=true" />
+</a>
+</p>
 
-**Sports Analytics / Golf ML**  
-Exploring computer vision for swing analysis, shot dispersion estimation, and player comparison.
-
-**Water Polo Computer Vision**  
-Tracking and event detection from match footage.
+<p align="center">
+<a href="[https://github.com/richardyun03/golf-ml](https://github.com/richardyun03/golf-lab)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=golf-ml&theme=tokyonight&hide_border=true" />
+</a>
+<a href="[https://github.com/richardyun03/waterpolo-cv](https://github.com/richardyun03/polo_tracking)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=richardyun03&repo=waterpolo-cv&theme=tokyonight&hide_border=true" />
+</a>
+</p>
 
 ---
 
