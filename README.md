@@ -5,10 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=MIT+M.Eng+in+Computer+Science;Machine+Learning;Multi-Agent+Systems;Sports+Analytics&center=true&width=500&height=45">
 
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardyun03&show_icons=true&hide_border=true" />
-</p>---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardyun03&layout=compact&hide_border=true)
 ## Current Focus
 
 - World models for embodied agents
