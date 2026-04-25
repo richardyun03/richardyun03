@@ -95,13 +95,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=richardyun03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardyun03&theme=tokyonight&hide_border=true&background=0f2027" width="49%" />
-
-</div>
-
 ---
 
 <div align="center">
